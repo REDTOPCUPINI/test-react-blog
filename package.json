@@ -1,8 +1,8 @@
 {
   "name": "my-first-react-app",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://github.com/CristyTarantino/reactjs-blog",
+  "private": true, 
+  "homepage": "https://grorkwkwq.github.io/test-react-blog/",
   "dependencies": {
     "axios": "0.17.1",
     "history": "4.7.2",
